@@ -5,6 +5,7 @@ import java.util.Set;
 
 public class SetTraining {
     public static void trainSet() {
+        System.out.println("Sets");
         String name1 = "Sara";
         String name2 = "Susan";
         String name3 = "Lucy";

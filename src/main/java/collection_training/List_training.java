@@ -5,6 +5,7 @@ import java.util.List;
 
 public class List_training {
     public static void trainingList() {
+        System.out.println("Lists");
         String name1 = "Paul";
         String name2 = "James";
         String name3 = "Martin";
